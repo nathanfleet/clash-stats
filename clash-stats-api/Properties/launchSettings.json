@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "clash_stats_api": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7140",
+      "launchBrowser": false
+    }
+  }
+}
